@@ -1,0 +1,182 @@
+[
+    {
+        "id": "CS",
+        "titulo": "Counter-Strike: Global Offensive",
+        "imagen": "./img/FPS/01.jpg",
+        "categoria": {
+            "nombre": "FPS",
+            "id": "FPS"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "EFT",
+        "titulo": "Escape from Tarkov",
+        "imagen": "./img/FPS/02.jpg",
+        "categoria": {
+            "nombre": "FPS",
+            "id": "FPS"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "RON",
+        "titulo": "Ready or Not",
+        "imagen": "./img/FPS/03.jpg",
+        "categoria": {
+            "nombre": "FPS",
+            "id": "FPS"
+        },
+        "precio": 900
+    },
+    {
+        "id": "RS",
+        "titulo": "Tom Clancy's Rainbow Six Extraction",
+        "imagen": "./img/FPS/04.jpg",
+        "categoria": {
+            "nombre": "FPS",
+            "id": "FPS"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "AH",
+        "titulo": "Atomic Heart - (10%OFF)",
+        "imagen": "./img/FPS/05.jpg",
+        "categoria": {
+            "nombre": "FPS",
+            "id": "FPS"
+        },
+        "precio": 4950
+    },
+    {
+        "id": "CPUNK",
+        "titulo": "Cyberpunk",
+        "imagen": "./img/OpenWorld/01.jpg",
+        "categoria": {
+            "nombre": "Mundo abierto",
+            "id": "OpenWorld"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "FC5",
+        "titulo": "Far Cry 5",
+        "imagen": "./img/OpenWorld/02.jpg",
+        "categoria": {
+            "nombre": "Mundo abierto",
+            "id": "OpenWorld"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "RDD2",
+        "titulo": "Red Dead Redemption 2",
+        "imagen": "./img/OpenWorld/03.jpg",
+        "categoria": {
+            "nombre": "Mundo abierto",
+            "id": "OpenWorld"
+        },
+        "precio": 890
+    },
+    {
+        "id": "NMS",
+        "titulo": "No Man's Sky",
+        "imagen": "./img/OpenWorld/04.jpg",
+        "categoria": {
+            "nombre": "Mundo abierto",
+            "id": "OpenWorld"
+        },
+        "precio": 500
+    },
+    {
+        "id": "GTAV",
+        "titulo": "Grand Theft Auto V",
+        "imagen": "./img/OpenWorld/05.jpg",
+        "categoria": {
+            "nombre": "Mundo abierto",
+            "id": "OpenWorld"
+        },
+        "precio": 1100
+    },
+    {
+        "id": "MCRAFT",
+        "titulo": "Minecraft",
+        "imagen": "./img/OpenWorld/06.jpg",
+        "categoria": {
+            "nombre": "Mundo abierto",
+            "id": "OpenWorld"
+        },
+        "precio": 250
+    },
+    {
+        "id": "HZD",
+        "titulo": "Horizon Zero Dawn",
+        "imagen": "./img/OpenWorld/07.jpg",
+        "categoria": {
+            "nombre": "Mundo abierto",
+            "id": "OpenWorld"
+        },
+        "precio": 3400
+    },
+    {
+        "id": "TW3",
+        "titulo": "The Witcher 3: Wild Hunt",
+        "imagen": "./img/OpenWorld/08.jpg",
+        "categoria": {
+            "nombre": "Mundo abierto",
+            "id": "OpenWorld"
+        },
+        "precio": 750
+    },
+    {
+        "id": "ITT",
+        "titulo": "It Takes Two",
+        "imagen": "./img/adventure/01.jpg",
+        "categoria": {
+            "nombre": "Aventura",
+            "id": "adventure"
+        },
+        "precio": 2400
+    },
+    {
+        "id": "SMR",
+        "titulo": "Spider-Man Remastered",
+        "imagen": "./img/adventure/02.jpg",
+        "categoria": {
+            "nombre": "Aventura",
+            "id": "adventure"
+        },
+        "precio": 5900
+    },
+    {
+        "id": "SMMM",
+        "titulo": "Spider-Man: Miles Morales",
+        "imagen": "./img/adventure/03.jpg",
+        "categoria": {
+            "nombre": "Aventura",
+            "id": "adventure"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "RE3",
+        "titulo": "Resident Evil 3",
+        "imagen": "./img/adventure/04.jpg",
+        "categoria": {
+            "nombre": "Aventura",
+            "id": "adventure"
+        },
+        "precio": 2900
+    },
+    {
+        "id": "GOWR",
+        "titulo": "God of War Ragnarök",
+        "imagen": "./img/adventure/05.jpg",
+        "categoria": {
+            "nombre": "Aventura",
+            "id": "adventure"
+        },
+        "precio": 6000
+    }
+]
